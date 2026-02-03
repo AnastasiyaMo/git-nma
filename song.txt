@@ -5,9 +5,3 @@ line 4
 line 5
 line 6
 
-one more line for the testing revert
-------------------------------------
-
-
-everything for the feature brunch
-add one more line for the feature
