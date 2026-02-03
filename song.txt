@@ -4,7 +4,6 @@ line 3
 line 4
 line 5
 line 6
-line 9
 
-something new
----------------------
+one more line for the testing revert
+------------------------------------
